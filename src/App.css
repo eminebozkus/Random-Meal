@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+* {
+  box-sizing: border-box;
+  font-family: "Satisfy", cursive;
+  font-size: large;
+  background-color: rgb(201, 201, 201);
+  text-align: center;
+}
+h1 {
+  font-size: 45px;
+}
+h2 {
+  font-size: 25px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+button {
+  padding: 10px 100px;
+  background-color: rgba(158, 158, 158, 0.575);
+  border-radius: 3px;
+  text-align: center;
+  border: none;
+}
+button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
